@@ -1,2 +1,2 @@
-Healthy Recipes - codecademy.com
-HTML - CSS training
+- Healthy Recipes - codecademy.com
+- HTML - CSS training
