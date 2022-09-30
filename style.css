@@ -14,12 +14,11 @@ img {
   list-style: square;
 }
 
-p.citation a.external-link {
-    color: gray;
+p.time {
+  color: gray;
 }
-
-.external-link {
-  color: seagreen;
+p.citation a.external-link {
+  color: SeaGreen;
 }
 
 h1,
